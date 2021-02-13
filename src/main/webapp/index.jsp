@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome to Flipkart.com</h1>
-<h2>Sale is on 27 Jun 2020</h2>
+<h1>Welcome to INDIGO airlines</h1>
+<h2>Flight sale is going on.. flight are available at 999 INR</h2>
 </body>
 </html>
